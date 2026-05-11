@@ -22,7 +22,7 @@ Projeto simples de Processamento de Linguagem Natural (NLP) usando Python.
 ```bash id="j6v2pr"
 python main.py
 ```
-
+Projeto em Python para análise de texto com TF-IDF e WordCloud.
 ## Exemplo da nuvem de palavras
 
 ![WordCloud](exemplo.png)
